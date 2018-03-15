@@ -175,7 +175,7 @@ buck-out/
 .buckd/
 .buckversion
 .fakebuckversion
-
+package-lock.json
 ### ReactNative.Node Stack ###
 # Logs
 
